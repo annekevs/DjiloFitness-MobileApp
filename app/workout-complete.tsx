@@ -7,7 +7,7 @@ import {
   ScrollView,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { Trophy, Clock, Flame, Target, Star, Share, Home } from 'lucide-react-native';
+import { Trophy, Clock, Flame, Target, Star, Share, Chrome as Home } from 'lucide-react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { router } from 'expo-router';
 

@@ -8,7 +8,7 @@ import {
   Dimensions,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, Play, Pause, SkipForward, RotateCcw, CheckCircle } from 'lucide-react-native';
+import { ArrowLeft, Play, Pause, SkipForward, RotateCcw, CircleCheck as CheckCircle } from 'lucide-react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { router, useLocalSearchParams } from 'expo-router';
 
