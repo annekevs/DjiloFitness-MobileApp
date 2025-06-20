@@ -7,7 +7,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ArrowLeft, Target, TrendingUp, Calendar, CheckCircle, Plus } from 'lucide-react-native';
+import { ArrowLeft, Target, TrendingUp, Calendar, CircleCheck as CheckCircle, Plus } from 'lucide-react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { router } from 'expo-router';
 

@@ -6,7 +6,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { CheckCircle, Calendar, MapPin, Home } from 'lucide-react-native';
+import { CircleCheck as CheckCircle, Calendar, MapPin, Chrome as Home } from 'lucide-react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { router } from 'expo-router';
 
